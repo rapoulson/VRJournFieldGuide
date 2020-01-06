@@ -2,9 +2,8 @@
 This page is a list of people and Publications doing quality work _about_ VR. Feel
 free to add your favorites as you discover them!
 
-##VR Specific Publications
-these publications only cover VR
-
+## VR Specific Publications
+These publications only cover VR.
 * [Voices of VR](http://voicesofvr.com/)
   This podcast is an extremely ambitious effort to document the oral history of VR
   as it's happening. There's truly stunning amount of content here, covering a broad
@@ -24,8 +23,8 @@ these publications only cover VR
   Haptic.al's weekly newsletter is a nice round up of VR news.
 
 
-##Developer Blogs
-creators documenting their process
+## Developer Blogs
+These creators document their processes.
 * [The Google Developers Blog](https://developers.googleblog.com/)
   Tons of great VR/AR tips coming out the Google dev blog these days. Checkout this [post](https://developers.googleblog.com/2016/08/daydream-labs-positive-social.html) on social VR.
 * [The UX of VR](http://www.uxofvr.com/)
@@ -36,7 +35,7 @@ creators documenting their process
   blog about their process. eleVR is a great resource for when you're looking for a
   pretty deep dive--check out their [Spherical Cinematography 101](http://elevr.com/vr-editing-scale/)
 
-##Publications With Good VR Coverage
-these publications aren't strictly focussed on VR, but have good coverage
+## Publications With Good VR Coverage
+These publications aren't strictly focused on VR, but have good coverage.
 * [Motherboard](http://motherboard.vice.com/)
 * [The Verge](http://www.theverge.com/label/vr-virtual-reality)

@@ -1,5 +1,5 @@
 # What VR should I be watching?
-This page is for noteworthy projects that explore storytelling in VR. Seen something
+This page is for noteworthy projects that explore storytelling in VR. Saw something
 great recently? Add a link and leave a quick review.
 
 ## How do I even watch VR?

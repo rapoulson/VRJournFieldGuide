@@ -2,14 +2,14 @@ The goal of this demo is to transfer a build from Unity onto an iOS mobile phone
 
 You will need to have downloaded Xcode and Unity to your computer. You can download Xcode for free on the Mac App Store. Information about what you're downloading can be found [here](getting-started/game-engine.md) under the Android explanation. 
 
-#Download Unity
+# Download Unity
 You can download the latest version of Unity [here](https://developers.google.com/vr/unity/get-started-ios)
 Scroll down to “Set up the Google VR Unity SDK" and click on the “Download and Install the latest version of Unity” link. Download and create a Unity account. 
 
-#Download the SDK
+# Download the SDK
 Download the Google VR SDK for Unity. You can download the repo directly. Create a new project in Unity, I called mine DemoVR, and make sure it is on the 3D setting. 
 
-#Setup to deploy to iPhone
+# Setup to deploy to iPhone
 Once in Unity, go to Assets -> Import package -> Custom package and locate the Unity package you downloaded on your computer. Import everything. 
 
 Next, go to File -> Build Settings. Click on iOS under platform and then click to switch the platform. If it doesn’t let you click , then click on open download page and download. You should now be able to switch platforms. Then click Player Settings. 
